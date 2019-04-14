@@ -1,0 +1,11 @@
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\bin\Debug\netcoreapp2.1\DziedziczenieMarkI.deps.json
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\bin\Debug\netcoreapp2.1\DziedziczenieMarkI.runtimeconfig.json
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\bin\Debug\netcoreapp2.1\DziedziczenieMarkI.runtimeconfig.dev.json
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\bin\Debug\netcoreapp2.1\DziedziczenieMarkI.dll
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\bin\Debug\netcoreapp2.1\DziedziczenieMarkI.pdb
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\obj\Debug\netcoreapp2.1\DziedziczenieMarkI.csprojAssemblyReference.cache
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\obj\Debug\netcoreapp2.1\DziedziczenieMarkI.csproj.CoreCompileInputs.cache
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\obj\Debug\netcoreapp2.1\DziedziczenieMarkI.AssemblyInfoInputs.cache
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\obj\Debug\netcoreapp2.1\DziedziczenieMarkI.AssemblyInfo.cs
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\obj\Debug\netcoreapp2.1\DziedziczenieMarkI.dll
+C:\Users\MT\source\repos\DziedziczenieMarkI\DziedziczenieMarkI\obj\Debug\netcoreapp2.1\DziedziczenieMarkI.pdb
